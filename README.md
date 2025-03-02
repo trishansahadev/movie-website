@@ -1,5 +1,8 @@
 # Project Name 🚀
-- Cine Rental Web Application 
+- Cine Rental Web Application
+
+  ![image](https://github.com/user-attachments/assets/72c79b20-b05f-4092-b2b6-d6fe66645b30)
+ 
 
 ## Description 📄
 A brief description of your project. Mention its purpose and features.
