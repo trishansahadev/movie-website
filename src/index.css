@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+.light {
+  @apply bg-[#fff] text-black;
+}
