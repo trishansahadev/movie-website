@@ -13,7 +13,7 @@ export default function Page() {
       <Header />
 
       <main>
-        <div class="container m-auto grid lg:grid-cols-[218px_1fr] gap-[3.5rem]">
+        <div className="container m-auto grid lg:grid-cols-[218px_1fr] gap-[3.5rem]">
           {/* Sidebar */}
           <Sidebar />
           {/* Movie List */}
